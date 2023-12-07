@@ -1,0 +1,15 @@
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\bin\Debug\net7.0\DreamJournal.exe
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\bin\Debug\net7.0\DreamJournal.deps.json
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\bin\Debug\net7.0\DreamJournal.runtimeconfig.json
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\bin\Debug\net7.0\DreamJournal.dll
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\bin\Debug\net7.0\DreamJournal.pdb
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.csproj.AssemblyReference.cache
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.AssemblyInfoInputs.cache
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.AssemblyInfo.cs
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.csproj.CoreCompileInputs.cache
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.dll
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\refint\DreamJournal.dll
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.pdb
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\DreamJournal.genruntimeconfig.cache
+C:\Users\leaps\Desktop\fall2023\AppliedPrograming\module5\DreamJournalFinal\DreamJournal\obj\Debug\net7.0\ref\DreamJournal.dll
