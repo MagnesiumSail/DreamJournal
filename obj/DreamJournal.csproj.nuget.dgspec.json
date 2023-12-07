@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\DreamJournal.csproj": {}
+    "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\DreamJournal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\DreamJournal.csproj": {
+    "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\DreamJournal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\DreamJournal.csproj",
+        "projectUniqueName": "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\DreamJournal.csproj",
         "projectName": "DreamJournal",
-        "projectPath": "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\DreamJournal.csproj",
+        "projectPath": "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\DreamJournal.csproj",
         "packagesPath": "C:\\Users\\leaps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\obj\\",
+        "outputPath": "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leaps\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -48,12 +48,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MwRHQucdqnWRg5xKf5r8nm7+qnNpKbjyP2+kM2T3U6h7Rtzw2Phgnh87okb6oCehPEehruDeAVMXpWwfzA8ZMw==",
+  "dgSpecHash": "/xSCnjFdKkd93KXEih35Wwvp7ApcFFFivPph+Mk0IJsrpYCY6zJnPzN1syzCEk0TakxXDQZanNwoARHRLtMgPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\leaps\\Desktop\\fall2023\\AppliedPrograming\\module5\\DreamJournalFinal\\DreamJournal\\DreamJournal.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\leaps\\OneDrive\\Desktop\\vscode\\DreamJournal\\DreamJournal\\DreamJournal.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leaps\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\leaps\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\leaps\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\leaps\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
