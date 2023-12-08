@@ -6,7 +6,7 @@ This program is a Dream journal. It has the ability to add entries, remove entir
 
 I wrote this program to learn C# variables, expressions, conditionals, loops, functions, classes, and structures.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=31UHW1yU_xM)
 
 # Development Environment
 
